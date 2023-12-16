@@ -1,0 +1,7 @@
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\bin\Debug\Romanenko_lab7.exe.config
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\bin\Debug\Romanenko_lab7.exe
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\bin\Debug\Romanenko_lab7.pdb
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\obj\Debug\Romanenko_lab7.csproj.AssemblyReference.cache
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\obj\Debug\Romanenko_lab7.csproj.CoreCompileInputs.cache
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\obj\Debug\Romanenko_lab7.exe
+D:\My project\C#\лабы 2й курс\Romanenko_lab7\Romanenko_lab7\obj\Debug\Romanenko_lab7.pdb
